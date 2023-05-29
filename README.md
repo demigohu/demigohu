@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @demigohu
 - 👀 I’m interested in DevOps/Cysec
-- 🌱 I’m currently learning Cysec
+- 🌱 I’m currently Work to be an Validator or Node Operator
 - 💞️ I’m looking to collaborate on Every Project
 - 📫 How to reach me
 - My email : tgraji.k@gmail.com
